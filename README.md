@@ -3,7 +3,8 @@
 The Project is still in process. In this project we're attempting to generate Conversational QA pairs using semantic role labeling, coreference resolution, and named entity recognition. The rules are now hard-coded, but we're trying to use large language models to circumvent hard-coding.
 
 A pilot and weak Demo
-what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States
+
+what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States\n
 which time? from 2017 to 2021
 what did Trump graduate in 1968 ? the Wharton School of the University of Pennsylvania
 which time? in 1968
