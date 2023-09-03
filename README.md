@@ -4,7 +4,7 @@ The Project is still in process. In this project we're attempting to generate Co
 
 A pilot and weak Demo
 
-what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States\n
+what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States :-
 which time? from 2017 to 2021
 what did Trump graduate in 1968 ? the Wharton School of the University of Pennsylvania
 which time? in 1968
