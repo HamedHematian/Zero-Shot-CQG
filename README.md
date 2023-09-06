@@ -1,6 +1,7 @@
 # Zero-Shot-CQG
 
-The Project is still in process and the code is incomplete. However, the pipeline works for now. In this project we're attempting to generate Conversational QA pairs using semantic role labeling, coreference resolution, and named entity recognition. The rules are now hard-coded, but we're trying to use large language models to circumvent hard-coding.
+Attention: The Project is still in process and the code is incomplete and the code is uper messy, as I haven't had the time to fix it.
+However, the pipeline works for now. In this project we're attempting to generate Conversational QA pairs using semantic role labeling, coreference resolution, and named entity recognition. The rules are now hard-coded, but we're trying to use large language models to circumvent hard-coding.
 
 A pilot and weak Demo
 
