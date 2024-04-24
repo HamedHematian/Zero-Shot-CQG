@@ -1,7 +1,7 @@
 # Zero-Shot-CQG
 
 
-### In this project, our program receives a text, containing some paragraphs about a topic, and it generates some questions and answers according to the info in that text.
+### In this project, our program receives a text, containing some paragraphs about a topic, and it generates some questions and answers according to the info in that text in a conversational manner.
 
 Attention: The Project is still in process and the code is incomplete and the code is uper messy, as I haven't had the time to fix it.
 However, the pipeline works for now. 
