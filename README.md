@@ -3,10 +3,10 @@
 Attention: The Project is still in process and the code is incomplete and the code is uper messy, as I haven't had the time to fix it.
 However, the pipeline works for now. 
 
-# A pilot and weak Demo:
+# A pilot Demo:
 ## The text is given from Donald Trump Wikipedia page's abstract, and the questions and answers are generated according to the text given:
 
-### Text:
+## Wikipedia Text:
 Trump received a Bachelor of Science in economics from the University of Pennsylvania in 1968, and his father named him president of his real estate business in 1971. Trump renamed it the Trump Organization and reoriented the company toward building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business failures in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing the Trump name. From 2004 to 2015, he co-produced and hosted the reality television series The Apprentice. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies.
 
 Trump won the 2016 presidential election as the Republican Party nominee against Democratic Party nominee Hillary Clinton while losing the popular vote.[a] During the campaign, his political positions were described as populist, protectionist, isolationist, and nationalist. His election and policies sparked numerous protests. He was the first U.S. president with no prior military or government experience. A special counsel investigation established that Russia had interfered in the 2016 election to favor Trump's campaign. Trump promoted conspiracy theories and made many false and misleading statements during his campaigns and presidency, to a degree unprecedented in American politics. Many of his comments and actions have been characterized as racially charged or racist and many as misogynistic.
@@ -20,7 +20,7 @@ After Trump tried to pressure Ukraine in 2019 to investigate Biden, the U.S. Hou
 Since leaving office, Trump has continued to dominate the Republican Party and is the presumptive Republican nominee for the 2024 presidential election. In 2023, a civil trial jury found that Trump sexually abused E. Jean Carroll. In 2024, a New York state court found Trump liable for financial fraud. Trump is appealing both judgments. He is also on trial in New York on 34 felony counts of falsifying business records, and indicted in Florida on 40 felony counts related to his mishandling of classified documents, in Washington, D.C., on four felony counts of conspiracy and obstruction for efforts to overturn the 2020 presidential election, and in Georgia on ten charges of racketeering and other felonies committed in an effort to overturn the state's 2020 election results. Trump pleaded not guilty to all charges.
 
 
-### Questions and Answers:
+## Questions and Answers:
 what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States <br />
 which time? from 2017 to 2021 <br />
 what did Trump graduate in 1968 ? the Wharton School of the University of Pennsylvania <br />
