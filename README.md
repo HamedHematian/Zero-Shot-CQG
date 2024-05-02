@@ -42,8 +42,3 @@ what did He win ? the 2016 United States presidential election <br />
 what did He lose ? the national popular vote <br />
 what did His election and policies spark ? numerous protests <br />
 where did The 2017–2019 special counsel investigation establish ? that Russia interfered in the 2016 election to favor the election of Trump <br />
-what did Russia interfere ? the 2016 election <br />
-what did Russia favor ? the election of Trump <br />
-what did Trump promote ? conspiracy theories <br />
-what did Trump make during his campaigns and presidency ? many false and misleading statements <br />
-what time? during his campaigns and presidency <br />
