@@ -3,10 +3,10 @@
 
 ### In this project, our program receives a text, containing some paragraphs about a topic, and it generates some questions and answers according to the info in that text in a conversational manner.
 
-Attention: The Code is debugged and it is much cleaner right now. But I am still trying to add more features to the code.
+Attention: The Code is debugged and it is much cleaner right now. But I am still trying to add more features to the code. For one thing, more connections will be made between adjacent questions in conversation to make the conversation more natural.
 
 # A pilot Demo:
-## The text is given from Sheldon Cooper Wikipedia Page.
+### The text is given from Sheldon Cooper Wikipedia Page.
 
 ## Wikipedia Text:
 Sheldon Lee Cooper,[4][5] Ph.D., Sc.D.,[6] is a fictional character in the CBS television series The Big Bang Theory and its spinoff series Young Sheldon, portrayed by actors Jim Parsons and Iain Armitage respectively (with Parsons as the latter series' narrator).[7] For his portrayal, Parsons won four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards. The character's childhood is the focus of Young Sheldon, in which he grows up in East Texas with his family Missy Cooper, George Cooper Sr., George Cooper Jr., Mary Cooper and his MeeMaw as a child prodigy.
