@@ -19,20 +19,17 @@ ETC.
 
 
 ## Questions and Answers:
-1- what did parsons win For his portrayal? four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards
-
-2- what has he said? that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome
-
-3- what does the role have? a genius-level IQ of 187
-
-4- what did he state In Young Sheldon Season 7 Episode 7? that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number
-5- what does he display? a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people
-6- what does he employ? irony and sarcasm
-7- what does he exhibit? highly idiosyncratic behavior and a general lack of humility, empathy, and toleration
-8- what couldn't he display? more facets "of Asperger's syndrome
-9- what did he get? his father fired
-10- what did he cherish? his maternal grandfather
-11- what did he call "Pop-Pop"? his maternal grandfather
+1- what did parsons win For his portrayal? four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards<br />
+2- what has he said? that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome<br />
+3- what does the role have? a genius-level IQ of 187<br />
+4- what did he state In Young Sheldon Season 7 Episode 7? that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number<br />
+5- what does he display? a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people<br />
+6- what does he employ? irony and sarcasm<br />
+7- what does he exhibit? highly idiosyncratic behavior and a general lack of humility, empathy, and toleration<br />
+8- what couldn't he display? more facets "of Asperger's syndrome<br />
+9- what did he get? his father fired<br />
+10- what did he cherish? his maternal grandfather<br />
+11- what did he call "Pop-Pop"? his maternal grandfather<br />
 12- what does he call "Meemaw"? his maternal grandmother
 13- what'd he have? a' trade' to fall back on
 14- what does leonard have? an IQ of 173
