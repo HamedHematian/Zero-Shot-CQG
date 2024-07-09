@@ -20,8 +20,11 @@ ETC.
 
 ## Questions and Answers:
 1- what did parsons win For his portrayal? four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards
+
 2- what has he said? that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome
+
 3- what does the role have? a genius-level IQ of 187
+
 4- what did he state In Young Sheldon Season 7 Episode 7? that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number
 5- what does he display? a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people
 6- what does he employ? irony and sarcasm
