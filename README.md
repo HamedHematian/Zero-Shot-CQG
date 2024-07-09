@@ -3,42 +3,77 @@
 
 ### In this project, our program receives a text, containing some paragraphs about a topic, and it generates some questions and answers according to the info in that text in a conversational manner.
 
-Attention: The Project is still in process and the code is incomplete and the code is uper messy, as I haven't had the time to fix it.
-However, the pipeline works for now. 
+Attention: The Code is debugged and it is much cleaner right now. But I am still trying to add more features to the code.
 
 # A pilot Demo:
-## The text is given from Donald Trump Wikipedia page's abstract, and the questions and answers are generated according to the text given:
+## The text is given from Sheldon Cooper Wikipedia Page.
 
 ## Wikipedia Text:
-Trump received a Bachelor of Science in economics from the University of Pennsylvania in 1968, and his father named him president of his real estate business in 1971. Trump renamed it the Trump Organization and reoriented the company toward building and renovating skyscrapers, hotels, casinos, and golf courses. After a series of business failures in the late twentieth century, he successfully launched side ventures that required little capital, mostly by licensing the Trump name. From 2004 to 2015, he co-produced and hosted the reality television series The Apprentice. He and his businesses have been plaintiff or defendant in more than 4,000 state and federal legal actions, including six business bankruptcies.
+Sheldon Lee Cooper,[4][5] Ph.D., Sc.D.,[6] is a fictional character in the CBS television series The Big Bang Theory and its spinoff series Young Sheldon, portrayed by actors Jim Parsons and Iain Armitage respectively (with Parsons as the latter series' narrator).[7] For his portrayal, Parsons won four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards. The character's childhood is the focus of Young Sheldon, in which he grows up in East Texas with his family Missy Cooper, George Cooper Sr., George Cooper Jr., Mary Cooper and his MeeMaw as a child prodigy.
 
-Trump won the 2016 presidential election as the Republican Party nominee against Democratic Party nominee Hillary Clinton while losing the popular vote.[a] During the campaign, his political positions were described as populist, protectionist, isolationist, and nationalist. His election and policies sparked numerous protests. He was the first U.S. president with no prior military or government experience. A special counsel investigation established that Russia had interfered in the 2016 election to favor Trump's campaign. Trump promoted conspiracy theories and made many false and misleading statements during his campaigns and presidency, to a degree unprecedented in American politics. Many of his comments and actions have been characterized as racially charged or racist and many as misogynistic.
+The adult Sheldon is a senior theoretical physicist at the California Institute of Technology (Caltech), and for the first ten seasons of The Big Bang Theory shares an apartment with his colleague and best friend, Leonard Hofstadter (Johnny Galecki); they are also friends and coworkers with Howard Wolowitz (Simon Helberg) and Rajesh Koothrappali (Kunal Nayyar). In season 10, Sheldon moves across the hall with his girlfriend Amy Farrah Fowler (Mayim Bialik), in the former apartment of Leonard's wife Penny (Kaley Cuoco).[8]
 
-As president, Trump ordered a travel ban on citizens from several Muslim-majority countries, diverted military funding toward building a wall on the U.S.–Mexico border, and implemented a policy of family separations for migrants detained at the U.S. border. He weakened environmental protections, rolling back more than 100 environmental policies and regulations. He signed the Tax Cuts and Jobs Act of 2017, which cut taxes for individuals and businesses and set the financial penalty to nil for the individual health insurance mandate penalty of the Affordable Care Act. He appointed Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett to the U.S. Supreme Court. He reacted slowly to the COVID-19 pandemic, ignored or contradicted many recommendations from health officials, used political pressure to interfere with testing efforts, and spread misinformation about unproven treatments. Trump initiated a trade war with China and withdrew the U.S. from the proposed Trans-Pacific Partnership trade agreement, the Paris Agreement on climate change, and the Iran nuclear deal. He met with North Korean leader Kim Jong Un three times but made no progress on denuclearization.
+He has a genius-level IQ of 187. In The Big Bang Theory, it is said that his and Leonard's IQs add up to 360, meaning Leonard has an IQ of 173. In Young Sheldon Season 7 Episode 7, when Sheldon was studying at home and was commanded to answer the phone, he became annoyed and stated that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number. However, he displays a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people, although he himself often employs them. He exhibits highly idiosyncratic behavior and a general lack of humility, empathy, and toleration. These characteristics provide the majority of the humor involving him, which are credited with making him the show's breakout character.[9][10][11][12] Some viewers have asserted that Sheldon's personality is consistent with autism spectrum disorder (or what used to be classified as Asperger's Syndrome).[11][13] Co-creator Bill Prady has stated that Sheldon's character was neither conceived nor developed with regard to Asperger's,[13] although Parsons has said that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome.[14]
 
-Trump refused to concede after losing the 2020 presidential election to Joe Biden, falsely claiming widespread electoral fraud, and attempted to overturn the results by pressuring government officials, mounting scores of unsuccessful legal challenges, and obstructing the presidential transition. On January 6, 2021, he urged his supporters to march to the U.S. Capitol, which many of them then attacked, resulting in multiple deaths and interrupting the electoral vote count.
-
-After Trump tried to pressure Ukraine in 2019 to investigate Biden, the U.S. House of Representatives impeached him for abuse of power and obstruction of Congress; the U.S. Senate acquitted him in February 2020. The House impeached him again in January 2021 for incitement of insurrection, making Trump the only American president to have been impeached twice; the Senate acquitted him in February. Scholars and historians rank Trump as one of the worst presidents in American history.
-
-Since leaving office, Trump has continued to dominate the Republican Party and is the presumptive Republican nominee for the 2024 presidential election. In 2023, a civil trial jury found that Trump sexually abused E. Jean Carroll. In 2024, a New York state court found Trump liable for financial fraud. Trump is appealing both judgments. He is also on trial in New York on 34 felony counts of falsifying business records, and indicted in Florida on 40 felony counts related to his mishandling of classified documents, in Washington, D.C., on four felony counts of conspiracy and obstruction for efforts to overturn the 2020 presidential election, and in Georgia on ten charges of racketeering and other felonies committed in an effort to overturn the state's 2020 election results. Trump pleaded not guilty to all charges.
+ETC.
 
 
 ## Questions and Answers:
-what did an American politician , media personality , and businessman serve from 2017 to 2021 ? the 45th president of the United States <br />
-which time? from 2017 to 2021 <br />
-what did Trump graduate in 1968 ? the Wharton School of the University of Pennsylvania <br />
-which time? in 1968 <br />
-what did He expand to building and renovating skyscrapers , hotels , casinos , and golf courses ? the company 's operations <br />
-what did He build ? skyscrapers , hotels , casinos , and golf courses <br />
-what did He renovate ? skyscrapers , hotels , casinos , and golf courses <br />
-what did He start later ? side ventures <br />
-which time? later <br />
-what did He license ? his name <br />
-what did he produce From 2004 to 2015 ? the reality television series The Apprentice <br />
-which time? From 2004 to 2015 <br />
-what did he host From 2004 to 2015 ? the reality television series The Apprentice <br />
-when? From 2004 to 2015 <br />
-what did He win ? the 2016 United States presidential election <br />
-what did He lose ? the national popular vote <br />
-what did His election and policies spark ? numerous protests <br />
-where did The 2017–2019 special counsel investigation establish ? that Russia interfered in the 2016 election to favor the election of Trump <br />
+1- what did parsons win For his portrayal? four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards
+2- what has he said? that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome
+3- what does the role have? a genius-level IQ of 187
+4- what did he state In Young Sheldon Season 7 Episode 7? that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number
+5- what does he display? a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people
+6- what does he employ? irony and sarcasm
+7- what does he exhibit? highly idiosyncratic behavior and a general lack of humility, empathy, and toleration
+8- what couldn't he display? more facets "of Asperger's syndrome
+9- what did he get? his father fired
+10- what did he cherish? his maternal grandfather
+11- what did he call "Pop-Pop"? his maternal grandfather
+12- what does he call "Meemaw"? his maternal grandmother
+13- what'd he have? a' trade' to fall back on
+14- what does leonard have? an IQ of 173
+15- what does highly idiosyncratic behavior and a general lack of humility, empathy, and toleration provide? the majority of the humor involving him, which are credited with making him the show's breakout character
+16- what have Some viewers asserted? that Sheldon's personality is consistent with autism spectrum disorder (or what used to be classified as Asperger's Syndrome)
+17- what has Co-creator Bill Prady stated? that Sheldon's character was neither conceived nor developed with regard to Asperger's
+18- what was by a computer programmer personally known to series co-creator Bill Prady inspired? The character of Sheldon Cooper
+19- what to have The only member of his family encouraged? his work in science
+20- what did Pop-Pop's loss cause? Sheldon to not like Christmas very much when his Christmas wish to bring Pop-Pop back did not come true
+21- what does his wish? to bring Pop-Pop back
+22- who does his maternal grandmother call "Moon Pie"? Sheldon Lee Cooper, Ph.D., Sc.D.
+23- what to have His aunt encouraged? his work in science
+24- who did the one introduce to non-scientific interests such as comic books and Dungeons & Dragons? Sheldon Lee Cooper, Ph.D., Sc.D.
+25- what did lorre intend? Johnny Galecki to play the role
+26- who did lorre say? that when Jim Parsons auditioned for the role, he was "so startlingly good" that he was asked to reaudition "to make sure he hadn't gotten lucky"
+27- what did johnny galecki think? he would be "better suited" for the character of Leonard
+28- what did george tell Mr. Hinckley, a store owner,? that George was stealing from the cash register
+29- what did he disclose? that other coaches were illegally recruiting players to their school, forcing the family to return to Medford
+1- what did parsons win For his portrayal? four Primetime Emmy Awards, a Golden Globe Award, a TCA Award, and two Critics' Choice Television Awards
+2- what has he said? that in his opinion, Sheldon "couldn't display more facets" of Asperger's syndrome
+3- what does the role have? a genius-level IQ of 187
+4- what did he state In Young Sheldon Season 7 Episode 7? that he is treated like a receptionist at home, despite having an IQ of 187, directly confirming the number
+5- what does he display? a fundamental lack of social skills, a tenuous understanding of humor (always ending with "bazinga"), and difficulty recognizing irony and sarcasm in other people
+6- what does he employ? irony and sarcasm
+7- what does he exhibit? highly idiosyncratic behavior and a general lack of humility, empathy, and toleration
+8- what couldn't he display? more facets "of Asperger's syndrome
+9- what did he get? his father fired
+10- what did he cherish? his maternal grandfather
+11- what did he call "Pop-Pop"? his maternal grandfather
+12- what does he call "Meemaw"? his maternal grandmother
+13- what'd he have? a' trade' to fall back on
+14- what does leonard have? an IQ of 173
+15- what does highly idiosyncratic behavior and a general lack of humility, empathy, and toleration provide? the majority of the humor involving him, which are credited with making him the show's breakout character
+16- what have Some viewers asserted? that Sheldon's personality is consistent with autism spectrum disorder (or what used to be classified as Asperger's Syndrome)
+17- what has Co-creator Bill Prady stated? that Sheldon's character was neither conceived nor developed with regard to Asperger's
+18- what was by a computer programmer personally known to series co-creator Bill Prady inspired? The character of Sheldon Cooper
+19- what to have The only member of his family encouraged? his work in science
+20- what did Pop-Pop's loss cause? Sheldon to not like Christmas very much when his Christmas wish to bring Pop-Pop back did not come true
+21- what does his wish? to bring Pop-Pop back
+22- who does his maternal grandmother call "Moon Pie"? Sheldon Lee Cooper, Ph.D., Sc.D.
+23- what to have His aunt encouraged? his work in science
+24- who did the one introduce to non-scientific interests such as comic books and Dungeons & Dragons? Sheldon Lee Cooper, Ph.D., Sc.D.
+25- what did lorre intend? Johnny Galecki to play the role
+26- who did lorre say? that when Jim Parsons auditioned for the role, he was "so startlingly good" that he was asked to reaudition "to make sure he hadn't gotten lucky"
+27- what did johnny galecki think? he would be "better suited" for the character of Leonard
+28- what did george tell Mr. Hinckley, a store owner,? that George was stealing from the cash register
+29- what did he disclose? that other coaches were illegally recruiting players to their school, forcing the family to return to Medford
